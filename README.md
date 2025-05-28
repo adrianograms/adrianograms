@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on Aliare as a Data Analyst
 - 🌱 I’m currently learning Docker and Kubernets
-- :computer: My main skills are: ETL (Pentaho, Python with Pyspark and Apache Airflow), Data Modeling, Database, SQL, Data Visualization, Google Cloud, Docker.
+- 🥅 I'm currently looking for opportunities in Data Engineering or Data Science
+- :computer: My main skills are: ETL (Pentaho, Python with Pyspark and Apache Airflow), Data Modeling, Database, SQL, Data Visualization, Cloud, Docker.
 - 📫 How to reach me: Linkedin
 
 <!--
